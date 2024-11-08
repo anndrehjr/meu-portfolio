@@ -1,0 +1,40 @@
+body.dark {
+    background-color: #ff0000;
+    color: #e0e0e0;
+  }
+  
+  nav.dark {
+    background-color: #fd0101;
+  }
+  
+  section.dark {
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+    box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1);
+  }
+  
+  button.dark {
+    background: #444;
+  }
+  
+  footer.dark {
+    background-color: #1a202c; /* Fundo mais escuro */
+    color: #cbd5e0; /* Texto em cinza claro */
+  }
+  
+  footer.dark a {
+    color: #cbd5e0;
+  }
+  
+  footer.dark a:hover {
+    color: #63b3ed; /* Cor do hover no modo escuro */
+  }
+  
+  footer.dark .social-icons a {
+    color: #000000; /* Cor dos ícones */
+  }
+  
+  footer.dark .social-icons a:hover {
+    color: #000000; /* Hover no modo escuro */
+  }
+  
